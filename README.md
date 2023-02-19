@@ -1,4 +1,4 @@
-# chess.eth
+# chess rules
 Chess implemented in a Solidity Smart Contract
 
 The goal of this smart contract is to, given a set of movements of two players,
